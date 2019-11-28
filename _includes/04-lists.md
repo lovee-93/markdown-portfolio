@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Food :pizza:
+2. Smiles :smile:
+3. Coffee :coffee:
